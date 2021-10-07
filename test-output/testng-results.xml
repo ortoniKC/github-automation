@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-04T19:33:19Z" name="Default suite" finished-at="2021-10-04T19:33:35Z" duration-ms="15233">
+    <groups>
+    </groups>
+    <test started-at="2021-10-04T19:33:19Z" name="Default test" finished-at="2021-10-04T19:33:35Z" duration-ms="15233">
+      <class name="tests.GithubFlow">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.GithubFlow@6e509ffa]" started-at="2021-10-04T19:33:19Z" name="setUp" finished-at="2021-10-04T19:33:23Z" duration-ms="3573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setObject()[pri:0, instance:tests.GithubFlow@6e509ffa]" started-at="2021-10-04T19:33:23Z" name="setObject" finished-at="2021-10-04T19:33:23Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setObject -->
+        <test-method signature="login()[pri:1, instance:tests.GithubFlow@6e509ffa]" started-at="2021-10-04T19:33:23Z" name="login" finished-at="2021-10-04T19:33:26Z" duration-ms="3374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="deleteRepor()[pri:3, instance:tests.GithubFlow@6e509ffa]" started-at="2021-10-04T19:33:26Z" name="deleteRepor" finished-at="2021-10-04T19:33:33Z" duration-ms="7114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRepor -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:tests.GithubFlow@6e509ffa]" started-at="2021-10-04T19:33:33Z" name="quit" finished-at="2021-10-04T19:33:35Z" duration-ms="1135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.GithubFlow -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
